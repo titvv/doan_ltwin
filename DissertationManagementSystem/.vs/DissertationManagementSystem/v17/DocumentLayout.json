@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhowc\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\doan_ltwin\\DissertationManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13023DFC-5C56-44E6-AC5C-B417B3833434}|DissertationManagementSystem\\DissertationManagementSystem.csproj|c:\\users\\nhowc\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\doan_ltwin\\dissertationmanagementsystem\\dissertationmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13023DFC-5C56-44E6-AC5C-B417B3833434}|DissertationManagementSystem\\DissertationManagementSystem.csproj|solutionrelative:dissertationmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 290,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nhowc\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\doan_ltwin\\DissertationManagementSystem\\DissertationManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "DissertationManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\nhowc\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\doan_ltwin\\DissertationManagementSystem\\DissertationManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "DissertationManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:49:08.652Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
